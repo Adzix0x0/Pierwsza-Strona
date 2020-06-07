@@ -34,6 +34,9 @@ Moja pierwsza strona o ulubionym zwierzęciu
               <td> 50 gr </td>
               <td> 20 zł </td>
               <td> 89,5 zł </td> 
-              
+              <style>
+              h2 {
+              color:rgb(236, 188, 245)} </style>
+
       
         
